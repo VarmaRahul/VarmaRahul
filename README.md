@@ -1,6 +1,6 @@
 # 👨‍💻 Rahul Varma — Senior DevOps Engineer
 
-🚀 **Senior DevOps Engineer @ MITS Global Consulting (HDFC Mutual Fund)**  
+🚀 **Senior DevOps Engineer**  
 ☁️ AWS | Azure | CI/CD | Kubernetes | Infrastructure as Code  
 
 DevOps Engineer with 5 years of experience designing and operating **secure, scalable cloud platforms** in BFSI environments. Specialized in **CI/CD automation, container orchestration, and Infrastructure as Code**, with a strong focus on reliability, performance, and cost optimization.
@@ -9,7 +9,7 @@ DevOps Engineer with 5 years of experience designing and operating **secure, sca
 
 ## ⚡ Quick Highlights
 
-- 🏢 Senior DevOps Engineer @ **MITS Global Consulting** (Client: HDFC Mutual Fund, Mumbai)
+- 🏢 Senior DevOps Engineer @ **MITS Global Consulting**
 - ☁️ 5 years in **DevOps, Cloud (AWS & Azure), Platform Engineering**
 - 🚀 Built and scaled **containerized microservices platforms**
 - ⚙️ Improved **CI/CD efficiency by ~50%**
