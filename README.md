@@ -85,10 +85,12 @@ observability, and platform engineering.
 
 ## 🧠 Currently Exploring
 
-- Kubernetes production-grade architectures  
-- Platform Engineering & Internal Developer Platforms (IDP)  
-- FinOps & cloud cost optimization strategies  
-- Observability with OpenTelemetry  
+- ⚙️ Kubernetes internals — operators, admission controllers, and production-grade architecture patterns
+- 🏗️ Platform Engineering & Internal Developer Platforms (IDP) with backstage and GitOps workflows
+- 📊 SRE practices — SLOs, SLIs, error budgets, and reliability engineering at scale
+- 💸 FinOps & cloud cost optimisation strategies
+- 🔭 Observability with OpenTelemetry and distributed tracing
+- 🐹 Go (Golang) — building infrastructure tooling and CLI applications
 
 ---
 
