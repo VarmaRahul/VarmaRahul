@@ -79,7 +79,8 @@ observability, and platform engineering.
 - Security, Compliance & Identity Fundamentals  
 
 ### 🧠 Others
-- GitHub Foundations  
+- GitHub Foundations
+- Python for Everybody Specialization - Coursera
 
 ---
 
