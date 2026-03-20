@@ -82,12 +82,6 @@ DevOps Engineer with 5 years of experience designing and operating **secure, sca
 
 ---
 
-## 📊 GitHub Stats
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarmaRahul&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-varma-engineer/)
