@@ -1,7 +1,5 @@
-# 👨‍💻 Rahul Varma — Senior DevOps Engineer
-
- 🚀 **Senior DevOps / SRE Engineer**
-☁️ AWS · Azure · Kubernetes · Terraform · CI/CD · Observability
+# 🚀 Senior DevOps / SRE Engineer
+### ☁️ AWS · Azure · Kubernetes · Terraform · CI/CD · Observability
 
 DevOps and SRE Engineer with around 5 years of experience architecting
 **secure, highly available cloud platforms** for enterprise BFSI environments.
@@ -67,20 +65,17 @@ observability, and platform engineering.
 ## 🎯 Certifications
 
 ### ☁️ AWS
-- AWS Certified Solutions Architect – Associate  
-- AWS Certified Cloud Practitioner  
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
 
 ### 🔷 Microsoft Azure
-- Azure Fundamentals  
-- Azure Data Fundamentals  
-- Azure Administrator Associate  
-- Azure Network Engineer Associate  
-- Azure DevOps Engineer Expert  
-- Security, Compliance & Identity Fundamentals  
+- Azure Administrator Associate
+- Azure Network Engineer Associate
+- Azure DevOps Engineer Expert
 
 ### 🧠 Others
 - GitHub Foundations
-- Python for Everybody Specialization - Coursera
+- Python for Everybody Specialization — Coursera
 
 ---
 
@@ -103,4 +98,4 @@ observability, and platform engineering.
 
 ---
 
-⭐ *Open to collaborating on DevOps, Cloud, and Platform Engineering projects*
+⭐ *Open to Senior DevOps, SRE, and Platform Engineering roles*
